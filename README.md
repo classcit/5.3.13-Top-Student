@@ -1,6 +1,6 @@
 # 5.3.13: Top Student
 
-```cpp
+```java
 public class Student
 {
     private static final int NUM_EXAMS = 4;
