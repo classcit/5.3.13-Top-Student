@@ -166,4 +166,4 @@ public class Classroom
 }
 ```
 
-![Views](https://count.getloli.com/get/@classcit_gist_993ba298?theme=moebooru)
+![Views](https://count.getloli.com/get/@classcit_gist_993ba297?theme=moebooru)
